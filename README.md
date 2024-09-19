@@ -18,17 +18,6 @@ I am a passionate **Full Stack Developer** with over 2 year of experience in des
 
 I’m currently focusing on improving my **React.js** and **TypeScript** skills, while exploring tools and extensions that enhance my workflow as a developer. I’m also delving deeper into **Back-End Development** with **Node.js**.
 
-## 📂 Featured Projects
-
-### 🔹 [E-Commerce Website](https://ecommerce-website-six-flame.vercel.app/)
-A fully responsive e-commerce web application providing users with a smooth shopping experience.
-
-### 🔹 [Quiz Website](https://quiz-website-iota-red.vercel.app/)
-An interactive quiz platform with real-time feedback and score tracking, built using JavaScript, HTML, and CSS.
-
-### 🔹 [Education Platform](https://education-website-nine-pi.vercel.app/)
-An interactive educational platform offering users in-depth resources and tools to explore and learn various topics effectively
-
 ## 💼 Experience
 
 I am currently a **Front-End Developer** at **Cortex AI Tech**, contributing to impactful projects that enhance user engagement through clean and functional UI designs.
