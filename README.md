@@ -14,9 +14,9 @@ I am a passionate **Full Stack Developer** with over 2 year of experience in des
 - **Design Tools**: Figma, UI/UX Design Principles
 - **Other**: Chrome Extension Development, Responsive Design, Media Queries
 
-## 🌱 What I'm Learning
+## 🌱Current Focus Areas
 
-I’m currently focusing on improving my **Next.js**, **React.js** and **TypeScript** skills, while exploring tools and extensions that enhance my workflow as a developer. I’m also delving deeper into **Back-End Development** with **Node.js**.
+I'm currently honing my expertise in **Next.js**, **React.js** and **TypeScript** continuously refining my skills to build highly efficient, scalable applications. I'm also exploring advanced tools and extensions to optimize my development workflow. In addition, I'm expanding my technical depth in **Back-End Development** with **Node.js** and **Python**, aiming to strengthen my **Full-stack capabilities.**
 
 ## 💼 Experience
 
