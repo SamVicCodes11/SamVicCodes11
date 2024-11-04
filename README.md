@@ -24,9 +24,9 @@ I Worked as a **Front-End Developer** at **Cortex AI Tech**, contributing to imp
 
 ## 🌍 Connect With Me
 
-- LinkedIn: [Akpobasa Victor Samuel](http://www.linkedin.com/in/samviccodes)
-- GitHub: [Akpobasa Victor Samuel](https://github.com/SamVicCodes)
-- Twitter: [Akpobasa Victor Samuel](https://x.com/SamVicCodes)
+- LinkedIn: http://www.linkedin.com/in/samviccodes
+- GitHub: https://github.com/SamVicCodes
+- Twitter: https://x.com/SamVicCodes
 - Email: victorakpobasa2020@gmail.com
 - WhatsApp: +2348146557494
 
