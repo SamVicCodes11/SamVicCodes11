@@ -30,6 +30,6 @@ I Worked as a **Front-End Developer** at **Cortex AI Tech**, contributing to imp
 - Email: victorakpobasa2020@gmail.com
 - WhatsApp: +2348146557494
 
-## ✨ Fun Fact
+## ✨ Fun Fact About Me
 
 I'm always eager to learn new technologies and love collaborating with people who are equally passionate about tech!
