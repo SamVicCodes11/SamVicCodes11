@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full Stack Developer** with over 2 year of experience in designing and building responsive web applications. I specialize in **Front-End Development** and have a strong desire to become one of the best in the software engineering field. My goal is to create impactful software solutions that deliver exceptional user experiences.
+I am a passionate **Full Stack Developer** with over 3 year of experience in designing and building responsive web applications. I specialize in **Front-End Development** and have a strong desire to become one of the best in the software engineering field. My goal is to create impactful software solutions that deliver exceptional user experiences.
 
 ## 🛠 Skills & Technologies
 
