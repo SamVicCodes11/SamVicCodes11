@@ -18,14 +18,10 @@ I am a passionate **Full Stack Engineer** with over 3 year of experience in desi
 
 I'm currently honing my expertise in **Next.js**, **React.js** and **TypeScript** continuously refining my skills to build highly efficient, scalable applications. I'm also exploring advanced tools and extensions to optimize my development workflow. In addition, I'm expanding my technical depth in **Back-End Development** with **Node.js** and **Python**, aiming to strengthen my **Full-stack capabilities.**
 
-## 💼 Experience
-
-I Worked as a **Front-End Developer** at **Cortex AI Tech**, contributing to impactful projects that enhance user engagement through clean and functional UI designs.
-
 ## 🌍 Connect With Me
 
 - LinkedIn: http://www.linkedin.com/in/samviccodes
-- GitHub: https://github.com/SamVicCodes
+- GitHub: https://github.com/SamVicCodes11
 - Twitter: https://x.com/SamVicCodes
 - Email: victorakpobasa2020@gmail.com
 - WhatsApp: +2348146557494
