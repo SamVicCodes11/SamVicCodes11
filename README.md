@@ -33,9 +33,7 @@ I build **scalable, responsive, and user-friendly web applications**.
 
 ---
 
-## 📊 GitHub Stats
-![SamVic Codes' GitHub stats](https://github-readme-stats.vercel.app/api?username=SamVicCodes11&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamVicCodes11&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamVicCodes11&theme=radical)
+## 🎯 Fun Facts
+- Coffee enthusiast ☕ and lifelong learner  
+- Love experimenting with **animations and UI/UX effects** in React  
+- Always building something new and improving my skills  
