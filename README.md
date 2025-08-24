@@ -18,10 +18,10 @@ I build **scalable, responsive, and user-friendly web applications**.
 ---
 
 ## 🚀 Projects
-- **AI Text Summarizer** – Web app that summarizes long texts quickly and accurately using **React** and **Node.js**  
+- **AI Text Summarizer** – Web app that summarizes long texts quickly and accurately using **Next.js** and **TypeScript**  
 - **E-commerce Platform** – Full-stack shopping platform with **payment integration** and admin dashboard  
 - **Multi-Election Voting System** – Secure online voting system built with **MERN Stack**  
-- **Blog Applications** – Responsive blog platforms with clean UI and user authentication  
+- **Blog Applications** – Responsive blog platforms with clean UI and user authentication using **React** and **Node.js**  
 - **Admin Dashboards** – Interactive dashboards for data visualization and management  
 - **Social Media Web App** – Full-stack social networking web app with real-time updates  
 
