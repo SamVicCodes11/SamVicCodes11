@@ -1,6 +1,6 @@
 # Hi there! I'm 𝗦𝗮𝗺𝗩𝗶𝗰 𝗖𝗼𝗱𝗲𝘀 👋
 
-I'm a **Software Engineer** specializing in **React.js, Next.js, and the MERN Stack**.  
+I'm a **Software Engineer** specializing in **React.js, Next.js, TypeScript and the MERN Stack**.  
 I build **scalable, responsive, and user-friendly web applications**.
 
 ---
